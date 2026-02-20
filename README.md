@@ -1,4 +1,5 @@
 # 🚀 OpenClaw Crash Course -- Build AI Agents That Actually Do Work
+![How to grow your (2)](https://github.com/user-attachments/assets/914663b2-b03e-4cb7-836c-0423acdd6bb0)
 
 In this crash course, we deploy OpenClaw on a real cloud server and
 build an AI-powered automation system that runs 24/7.
